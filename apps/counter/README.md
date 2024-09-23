@@ -7,6 +7,7 @@ This is a very simple click app. When you click on the screen, the count number 
 
 ## How to Build
 
+1. flutter doctor
 1. flutter pub get
-2. flutter create .
-3. flutter build ios (진행중.. 에러만남)
+1. flutter create .
+1. flutter build ios (진행중.. 에러만남)
