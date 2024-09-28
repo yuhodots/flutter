@@ -1,13 +1,16 @@
-# Counter App
+# counter
 
-## Description
+A new Flutter project.
 
-This is a very simple click app. When you click on the screen, the count number increases, and when you long press on the screen, the count number decreases. However, there is an additional login feature. You must enter the app through Google login, and once logged in, the count from before logging out is displayed as it is.
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## How to Build
+A few resources to get you started if this is your first Flutter project:
 
-1. flutter doctor
-1. flutter pub get
-1. flutter create .
-1. flutter build ios (진행중.. 에러만남)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
